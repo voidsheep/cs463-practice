@@ -10,17 +10,21 @@
 }
 
 .static {
+  position: static;
   background-color: var(--darkviolet);
 }
 
 .relative {
+  position: relative;
   background-color: var(--purple);
 }
 
 .absolute {
+  position: absolute;
   background-color: var(--maroon);
 }
 
 .fixed {
+  position: fixed;
   background-color: var(--darkgolden);
 }

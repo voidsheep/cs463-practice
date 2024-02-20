@@ -15,3 +15,5 @@ This was a pretty useful exercise.
 I'm not sure if instructions were meant to be included?
 Perhaps another exercise focusing on different sort's accessbility issues. I think this
 one was pretty sufficient when paired with the homework though.
+
+## CSS
