@@ -17,3 +17,7 @@ Perhaps another exercise focusing on different sort's accessbility issues. I thi
 one was pretty sufficient when paired with the homework though.
 
 ## CSS
+
+I used the videos heavily for these exercises because there was a lot to understand about CSS.
+This exercises were very helpful. I think the media query one was well explained.
+There were many exercises, and I feel like I learned a lot.

@@ -14,17 +14,17 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  margin-right: 2em;
-  padding: 0.5em 1em;
-}
-
-nav ul li:hover {
-  background-color: var(--gray1);
 }
 
 nav ul li a {
+  display: block;
+  padding: 1em;
   text-decoration: none;
-  color: val(--white);
+  color: var(--white);
+}
+
+nav ul li a:hover {
+  background-color: var(--gray1);
 }
 
 .main {
@@ -37,10 +37,20 @@ body {
   color: var(--white);
 }
 
+@media (max-width: 414px) {
+  nav ul li {
+    width: 100%;
+  }
+
+  .main {
+    margin-top: 220px;
+  }
+}
+
 @media (min-width: 415px) and (max-width: 1024px) {
   body {
-    background: var(--green);
-    color: var(--white);
+    background: var(--orange);
+    color: var(--black);
   }
 }
 
