@@ -21,3 +21,9 @@ one was pretty sufficient when paired with the homework though.
 I used the videos heavily for these exercises because there was a lot to understand about CSS.
 This exercises were very helpful. I think the media query one was well explained.
 There were many exercises, and I feel like I learned a lot.
+
+## Flexbox
+
+I referenced the video a lot since there were a lot of options for the flexbox.
+The exercise was helpful, and I tried to envision the boxes as contenet.
+Maybe an exercise showing a more typical flexbox page would be helpful.
