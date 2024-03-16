@@ -25,5 +25,23 @@ There were many exercises, and I feel like I learned a lot.
 ## Flexbox
 
 I referenced the video a lot since there were a lot of options for the flexbox.
-The exercise was helpful, and I tried to envision the boxes as contenet.
+The exercise was helpful, and I tried to envision the boxes as content.
 Maybe an exercise showing a more typical flexbox page would be helpful.
+
+## CSS Grid
+
+Changing the color of the background helped with the spacing. 
+
+## Bootstrap
+
+This felt like a lot to take in this week, so the videos were much appreciated.
+
+## Javascript
+
+I referenced the videos for some of the exercises. I found the variety
+of small exercises exploring different concepts to be very insightful.
+
+## Jquery
+
+I need a lot of guidance from the video. The exercise was helpful, I liked how it took
+the past exercise so you could compare and contrast the difference in approach. 
